@@ -19,6 +19,11 @@ This program is a simple visualisation of some path finding algorithms :
 - The green dots are the optimal path found.
 - You can Add orange blocks (walls) using your left mouse button.
 - The violet blocks are blocks that cost extra points to move in (useful in some algorithms) you can add them by code.
+- You can change the algorithme in the program by pressing 1,2,3 or 4 for :
+1. Breadth-first search
+2. Depth-first search
+3. Uniform-cost search
+4. A star search
 
 
 # Some screenshots
@@ -26,5 +31,8 @@ This program is a simple visualisation of some path finding algorithms :
 1. Breadth-first search
 <img src = "Screenshots\Screenshot_1.png" tilte = Breadth-first search >
 2. Depth-first search
+<img src = "Screenshots\Screenshot_2.png" tilte = Depth-first search >
 3. Uniform-cost search
+<img src = "Screenshots\Screenshot_3.png" tilte = Uniform-cost search >
 4. A star search
+<img src = "Screenshots\Screenshot_4.png" tilte = A star search >
