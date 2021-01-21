@@ -1,2 +1,3 @@
 # Path-Finding
-Pathfinding using 4 methods
+This program is a simple visualisation of some path finding algorithms :
+1. Breadth-first search
