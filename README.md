@@ -24,7 +24,7 @@ This program is a simple visualisation of some path finding algorithms :
 # Some screenshots
 
 1. Breadth-first search
-![Breadth-first search] (Screenshots\Screenshot_1.png)
+<img src = "Screenshots\Screenshot_1.png" tilte = Breadth-first search >
 2. Depth-first search
 3. Uniform-cost search
 4. A star search
